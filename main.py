@@ -24,4 +24,4 @@ if st.button("Analyse"):
         st.write("Lorem ipsum")
 
     else:
-        st.error("Please enter an existing subreddit name!a")
+        st.error("Please enter an existing subreddit name!")
